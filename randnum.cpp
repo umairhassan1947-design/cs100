@@ -16,7 +16,7 @@ int main()
       cout<<"Your random number is "<<randnum<<endl;
       if (randnum<=50)
       {
-        cout<<"Your number is less than 50 ( "<<randnum<<" ), you need to exit.."<<endl;
+        cout<<"Your number is less than 50 ( "<<randnum<<" ), you need to exit..."<<endl;
         break;
 
       }
